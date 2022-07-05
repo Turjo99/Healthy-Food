@@ -103,6 +103,11 @@ a {
   -moz-box-shadow: 2px -9px 27px -5px rgba(107, 107, 107, 0.75);
   margin-bottom: 100px;
 }
+.card:hover {
+  color: azure;
+  background-color: teal;
+  transition: 0.5s;
+}
 .numbers {
   display: flex;
   margin-top: 100px;
